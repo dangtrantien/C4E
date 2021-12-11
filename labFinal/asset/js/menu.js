@@ -108,7 +108,6 @@ input.addEventListener('input',(event) => {
 })
 
 //TẠO TAB LIST
-const buttons= document.getElementsByClassName('Tab-link');
 const foods= document.getElementsByClassName('Food');
 
 for(let i=0; i<buttons.length; i++){
